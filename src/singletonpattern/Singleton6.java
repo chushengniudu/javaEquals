@@ -1,7 +1,6 @@
 package singletonpattern;
 
 /**
- * Created by liuzheng on 2017/4/26.
  * 6、枚举
  * JDK 版本：JDK1.5 起
  * 是否 Lazy 初始化：否

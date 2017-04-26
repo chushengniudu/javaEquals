@@ -1,7 +1,6 @@
 package singletonpattern;
 
 /**
- * Created by liuzheng on 2017/4/26.
  * 从 singleton 类获取唯一的对象。
  */
 public class SingletonPatternDemo {

@@ -1,7 +1,6 @@
 package singletonpattern;
 
 /**
- * Created by liuzheng on 2017/4/26.
  * 5、登记式/静态内部类
  * 是否 Lazy 初始化：是
  * 是否多线程安全：是

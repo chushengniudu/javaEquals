@@ -1,7 +1,6 @@
 package singletonpattern;
 
 /**
- * Created by liuzheng on 2017/4/26.
  * 创建一个 Singleton 类。
  */
 public class SingleObject {

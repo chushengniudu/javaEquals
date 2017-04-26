@@ -1,7 +1,6 @@
 package shapedome;
 
 /**
- * Created by liuzheng on 2017/4/26.
  * 使用该工厂，通过传递类型信息来获取实体类的对象。
  */
 public class FactoryPatternDemo {

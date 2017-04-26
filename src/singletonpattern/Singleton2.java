@@ -1,7 +1,6 @@
 package singletonpattern;
 
 /**
- * Created by liuzheng on 2017/4/26.
  * 2、懒汉式，线程安全
  * synchronized(同步)
  */
